@@ -4,7 +4,7 @@ Small little project that tries to replicate a clock inspired by this [project](
 
 ## Usage
 
-## Install dependencies
+### Install dependencies
 
 ```
 cargo build
