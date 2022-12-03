@@ -4,7 +4,13 @@ Small little project that tries to replicate a clock inspired by this [project](
 
 ## Usage
 
-### Build with `wasm-pack build`
+## Install dependencies
+
+```
+cargo build
+```
+
+### Build
 
 ```
 wasm-pack build
